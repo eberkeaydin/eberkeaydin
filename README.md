@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [@eberkeaydin](github.com/eberkeaydin)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **History, Culture and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
