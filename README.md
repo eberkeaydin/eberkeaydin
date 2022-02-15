@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Emin Berke Aydın<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Emin Berke Aydın</h1>
 <h3 font-size="20" align="center">A passionate full stack developer candidate and a student from Turkey.</h3>
 
 
