@@ -24,6 +24,12 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
+  
+  <a href="https://www.soliditylang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
+      alt="c"/>
+  </a>
+  
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="c"/>
