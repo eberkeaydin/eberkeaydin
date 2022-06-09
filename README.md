@@ -4,7 +4,7 @@
 <h3 font-size="20" align="center">A passionate Web3 Developer Candidate and a student from Turkey.</h3>
 
 
-- 🌱 I’m currently learning **Solidity and Smart Contracts for Dapp Development** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **Solidity and Smart Contracts for Dapp Development** 
 
 - 🤝 I’m looking for help with **How NFT Marketplaces Work**
 
@@ -18,21 +18,18 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
   
   <a href="https://www.soliditylang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
-      alt="c"/>
+      alt="solidity"/>
   </a>
   
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="c"/>
+      alt="python"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -61,6 +58,10 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+      alt="vue"/> 
   </a>
 </p>
 
