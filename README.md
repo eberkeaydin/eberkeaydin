@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi, I'm Emin Berke Aydın</h1>
-<h3 font-size="20" align="center">A passionate full stack developer candidate and a student from Turkey.</h3>
+<h3 font-size="20" align="center">A passionate Web3 Developer Candidate and a student from Turkey.</h3>
 
 
-- 🌱 I’m currently learning **JAVA and JAVASCRIPT for Full Stack Development** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **Solidity and Smart Contracts for Dapp Development** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 🤝 I’m looking for help with **Design Patterns**
+- 🤝 I’m looking for help with **How NFT Marketplaces Work**
 
 - 👨‍💻 All of my projects are available [@eberkeaydin](github.com/eberkeaydin)
 
