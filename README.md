@@ -71,8 +71,8 @@
       alt="nodejs"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="[https://img.shields.io/badge/](https://simpleicons.org/icons/django.svg)?style=for-the-badge&logo=django&logoColor=green"
-      alt="nodejs"/> 
+    <img src="https://simpleicons.org/icons/django.svg?style=for-the-badge&logo=django&logoColor=green"
+      alt="django"/> 
   </a>
 </p>
 
