@@ -70,6 +70,10 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=django&logoColor=white"
+      alt="nodejs"/> 
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
