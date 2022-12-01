@@ -1,18 +1,17 @@
 
 
 <h1 align="center">Hi, I'm Emin Berke Aydın</h1>
-<h3 font-size="20" align="center">A passionate Web3 Developer Candidate and a student from Turkey.</h3>
+<h3 font-size="20" align="center">A passionate Python Engineer Candidate and a student from Turkey.</h3>
 
 
-- 🌱 I’m currently learning **Solidity and Smart Contracts for Dapp Development** 
+- 🌱 I’m currently learning **Django** 
 
-- 🤝 I’m looking for help with **How NFT Marketplaces Work**
+- 🤝 I’m looking for help with **Building REST APIs**
 
 - 👨‍💻 All of my projects are available [@eberkeaydin](github.com/eberkeaydin)
 
-- 💬 Ask me about **History, Culture and Philosophy 😆**
+- 💬 Feel free to contact me about **History, Culture and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
