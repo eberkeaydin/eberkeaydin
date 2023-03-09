@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django** 
 
-- 🤝 I’m looking for help with **Building REST APIs**
+- 🤝 I’m looking for help with **Microservices**
 
 - 👨‍💻 All of my projects are available [@eberkeaydin](github.com/eberkeaydin)
 
