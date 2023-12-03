@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [@eberkeaydin](github.com/eberkeaydin)
 
-- 💬 Feel free to contact me about **History, Culture and Philosophy 😆**
+- 💬 Feel free to contact me about **pair programming on a open source project**
 
 
 
